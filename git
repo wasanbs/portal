@@ -1,0 +1,5 @@
+--- a/home/user/studio/studio/git
++++ b/home/user/studio/studio/git
+@@ -0,0 +1 @@
++#!/bin/sh
+
